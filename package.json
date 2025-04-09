@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "Semplice Template per un Bot Discord con Prefix !",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ArduinoDenis.it",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  }
+}
